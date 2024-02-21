@@ -4,6 +4,7 @@ import Button from './UI/Button.jsx';
 import logoImg from '../assets/logo.jpg';
 import CartContext from './store/CardContext.jsx';
 import UserProgressContext from './store/UserProgressContext.jsx';
+// import header from '../componentStyles';
 
 export default function Header() {
   const cartCtx = useContext(CartContext);

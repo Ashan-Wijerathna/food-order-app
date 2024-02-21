@@ -18,13 +18,18 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 3rem 10%;
+  padding: 7rem 10%;
+  background-color: white;
 }
 
 #main-header #title {
   display: flex;
   gap: 1rem;
   align-items: center;
+  justify-content: flex-start;
+  
+ 
+  
 }
 
 #main-header #title img {
